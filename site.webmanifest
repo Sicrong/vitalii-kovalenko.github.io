@@ -1,0 +1,33 @@
+{
+  "name": "Vitalii Kovalenko - AI Productivity Expert",
+  "short_name": "Vitalii K",
+  "description": "AI Productivity Expert - Learn practical strategies to leverage AI for workflow optimization, team scaling, and organizational efficiency",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#ff6b35",
+  "background_color": "#f8f9fa",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "start_url": "/",
+  "lang": "en",
+  "categories": ["productivity", "ai", "business", "education"],
+  "screenshots": [
+    {
+      "src": "/assets/images/og-image.jpg",
+      "sizes": "1200x630",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ]
+}
